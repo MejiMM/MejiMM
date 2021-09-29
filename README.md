@@ -14,21 +14,21 @@ Eternal self-taught, always learning, practicing and improving my knowledge. I h
 <img width="50px" alt="JavaScript" src="assets/js-logo.png" />
 
 <p><b>Frontend</b></p>
-<img align="left" width="70px" src="assets/html-logo.png"/>
-<img align="left" width="60px" src="assets/css-logo.png"/>
-<img align="left" width="60px" src="assets/react-logo.png"/>
-<img align="left" width="50px" src="assets/svelte-logo.png"/>
-<img align="center" width="50px" src="assets/sass-logo.png"/>
+<img align="left" width="65px" alt="HTML5" src="assets/html-logo.png"/>
+<img align="left" width="60px" alt="CSS3" src="assets/css-logo.png"/>
+<img align="left" width="60px" alt="ReactJS" src="assets/react-logo.png"/>
+<img align="left" width="50px" alt="Svelte.js" src="assets/svelte-logo.png"/>
+<img align="center" width="50px" alt="SASS" src="assets/sass-logo.png"/>
 <br></br>
 
 <p><b>Backend</b></p>
-<img align="left" width="90px" src="assets/node-logo.png"/>
-<img align="left" width="90px" src="assets/express-logo.png"/>
+<img align="left" width="90px" alt="Node.js" src="assets/node-logo.png"/>
+<img align="left" width="90px" alt="Express.js" src="assets/express-logo.png"/>
 <br></br>
 <br></br>
 <p align="left"><b>Database</b></p>
-<img align="left" width="120px" src="assets/mongo-logo.png"/>
-<img align="cener" width="120px" src="assets/mssql.png"/>
+<img align="left" width="120px" alt="MongoDB" src="assets/mongo-logo.png"/>
+<img align="cener" width="120px" alt="Microsoft SQL" src="assets/mssql.png"/>
 <br></br>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=MejiMM&show_icons=true&theme=merko" alt="José Stats" />
