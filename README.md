@@ -10,6 +10,8 @@ Eternal self-taught, always learning, practicing and improving my knowledge. I h
 <h3>
   Skills
 </h3>
+<p><b>Language</b></p>
+<img src="assets/js" />
 <p><b>Frontend</b></p>
 
 <h4>
