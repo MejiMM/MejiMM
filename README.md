@@ -7,9 +7,9 @@ Eternal self-taught, always learning, practicing and improving my knowledge. I h
 
 <p align="center" ><img width="80%" src="assets/dessigner.gif" /> </p>
 
-<h3>
+<h2>
   Skills
-</h3>
+</h2>
 <p><b>Language</b></p>
 <img width="50px" alt="JavaScript" src="assets/js-logo.png" />
 
