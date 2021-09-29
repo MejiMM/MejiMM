@@ -11,9 +11,14 @@ Eternal self-taught, always learning, practicing and improving my knowledge. I h
   Skills
 </h3>
 <p><b>Language</b></p>
-<img src="assets/js" />
-<p><b>Frontend</b></p>
+<img width="50px" alt="JavaScript" src="assets/js-logo.png" />
 
+<p><b>Frontend</b></p>
+<img align="left" width="70px" src="assets/html-logo.png"/>
+<img align="left" width="60px" src="assets/css-logo.png"/>
+<img align="left" width="60px" src="assets/react-logo.png"/>
+<img align="left" width="50px" src="assets/svelte-logo.png"/>
+<img align="left" width="50px" src="assets/sass-logo.png"/>
 <h4>
   Job Profile and contact 🧐 👇
 </h4>
