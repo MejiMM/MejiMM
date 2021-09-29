@@ -18,17 +18,29 @@ Eternal self-taught, always learning, practicing and improving my knowledge. I h
 <img align="left" width="60px" src="assets/css-logo.png"/>
 <img align="left" width="60px" src="assets/react-logo.png"/>
 <img align="left" width="50px" src="assets/svelte-logo.png"/>
-<img align="left" width="50px" src="assets/sass-logo.png"/>
-<h4>
-  Job Profile and contact 🧐 👇
-</h4>
-<a href="https://www.linkedin.com/in/josemmojica/">
-  <img align="left" alt="José Mojica LinkedIN" width="45px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-<a href="mailto:jose.mojica.mj@gmail.com">
-  <img align="left" width="45px" src="assets/gmail.svg" />
-</a>
-
+<img align="center" width="50px" src="assets/sass-logo.png"/>
 <br></br>
 
-![José's GitHub stats](https://github-readme-stats.vercel.app/api?username=MejiMM&show_icons=true&theme=merko)
+<p><b>Backend</b></p>
+<img align="left" width="90px" src="assets/node-logo.png"/>
+<img align="left" width="90px" src="assets/express-logo.png"/>
+<br></br>
+<br></br>
+<p align="left"><b>Database</b></p>
+<img align="left" width="120px" src="assets/mongo-logo.png"/>
+<img align="cener" width="120px" src="assets/mssql.png"/>
+<br></br>
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=MejiMM&show_icons=true&theme=merko" alt="José Stats" />
+
+  <p align="left">
+  <b>Job Profile and contact</b>
+<br></br>
+<a href="https://www.linkedin.com/in/josemmojica/">
+  <img align="center" alt="José Mojica LinkedIN" width="45px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+  <br></br>
+<a href="mailto:jose.mojica.mj@gmail.com">
+  <img align="center" width="45px" src="assets/gmail.svg" />
+</a>
+  </p>
