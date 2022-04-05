@@ -14,7 +14,7 @@ Eternal self-taught, always learning, practicing and improving my knowledge. I h
 <img width="50px" alt="JavaScript" src="assets/js-logo.png" />
 
 <p><b>Frontend</b></p>
-<img align="left" width="65px" alt="HTML5" src="assets/html-logo.png"/>
+<img align="left" width="65px" alt="HTML5" src="assets/html5.png"/>
 <img align="left" width="60px" alt="CSS3" src="assets/css-logo.png"/>
 <img align="left" width="60px" alt="ReactJS" src="assets/react-logo.png"/>
 <img align="left" width="50px" alt="Svelte.js" src="assets/svelte-logo.png"/>
