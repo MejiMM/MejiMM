@@ -13,25 +13,27 @@ Eternal self-taught, always learning, practicing and improving my knowledge. I h
 <p><b>Language</b></p>
 <img width="50px" alt="JavaScript" src="assets/js-logo.png" />
 
-<div style="display:flex;flex-direction:column;">
-  <p style="color:black;"><b>Frontend</b></p>
-  <img align="left" width="70px" alt="HTML5" src="assets/html.png"/>
-  <img align="left" width="60px" alt="CSS3" src="assets/css-logo.png"/>
-  <img align="left" width="60px" alt="ReactJS" src="assets/react-logo.png"/>
-  <img align="left" width="50px" alt="Svelte.js" src="assets/svelte.png"/>
-<div>
-  <br></br>
 
+ <p style="color:black;"><b>Frontend</b></p>
+ <img align="left" width="70px" alt="HTML5" src="assets/html.png"/>
+ <img align="left" width="60px" alt="CSS3" src="assets/css-logo.png"/>
+ <img align="left" width="60px" alt="ReactJS" src="assets/react-logo.png"/>
+ <img align="left" width="65px" alt="Angular" src="assets/angular.png"/>
+ <img align="left" width="50px" alt="Svelte.js" src="assets/svelte.png"/>
+ <img align="left" width="70px" alt="Svelte.js" src="assets/boostrapp.png"/>
+ <br></br>
+ 
+<br></br>
 <p><b>Backend</b></p>
-<img align="left" width="90px" alt="Node.js" src="assets/node-logo.png"/>
-<img align="left" width="90px" alt="Express.js" src="assets/express-logo.png"/>
+<img align="left" width="80px" alt="Node.js" src="assets/node.png"/>
+<img align="left" width="120px" height="60px" alt="Express.js" src="assets/expressjs.png"/>
 <br></br>
 <br></br>
 <p align="left"><b>Database</b></p>
-<img align="left" width="120px" alt="MongoDB" src="assets/mongo-logo.png"/>
-<img align="cener" width="120px" alt="Microsoft SQL" src="assets/mssql.png"/>
+<img align="left" width="120px" alt="MongoDB" src="assets/mongodb.png"/>
+<img align="left" width="90px" alt="My SQL" src="assets/sql.png"/>
 <br></br>
-
+<br></br>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=MejiMM&show_icons=true&theme=merko" alt="José Stats" />
 
   <p align="left">
