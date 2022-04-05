@@ -13,13 +13,14 @@ Eternal self-taught, always learning, practicing and improving my knowledge. I h
 <p><b>Language</b></p>
 <img width="50px" alt="JavaScript" src="assets/js-logo.png" />
 
-<p><b>Frontend</b></p>
-<!--<img align="left" width="65px" alt="HTML5" src="assets/html5.png"/> -->
-<img align="left" width="60px" alt="CSS3" src="assets/css-logo.png"/>
-<img align="left" width="60px" alt="ReactJS" src="assets/react-logo.png"/>
-<!--<img align="left" width="50px" alt="Svelte.js" src="assets/svelte-logo.png"/>-->
-<img align="center" width="50px" alt="SASS" src="assets/sass-logo.png"/>
-<br></br>
+<div style="display:flex;flex-direction:column;">
+  <p style="color:black;"><b>Frontend</b></p>
+  <img align="left" width="70px" alt="HTML5" src="assets/html.png"/>
+  <img align="left" width="60px" alt="CSS3" src="assets/css-logo.png"/>
+  <img align="left" width="60px" alt="ReactJS" src="assets/react-logo.png"/>
+  <img align="left" width="50px" alt="Svelte.js" src="assets/svelte.png"/>
+<div>
+  <br></br>
 
 <p><b>Backend</b></p>
 <img align="left" width="90px" alt="Node.js" src="assets/node-logo.png"/>
